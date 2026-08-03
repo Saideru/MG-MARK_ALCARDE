@@ -1,0 +1,6 @@
+{
+  "name": "MG Car Seller Landing Page - Mark Alcarde",
+  "description": "High-converting MG car sales consultant landing page for Mark Alcarde featuring the full 7-car lineup, WhatsApp deep links, financing details, spec comparisons, and instant lead capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
